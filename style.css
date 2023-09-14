@@ -135,10 +135,18 @@
     width: 23%;
     background-color: white;
     
+    
 
 }
 .shop-sec{
     display: flex;
     justify-content: space-evenly;
     background-color: lightblue;
+}
+.box-img{
+    background-image: url("box2_image.jpg");
+    height: 225px;
+    background-size: cover;
+    margin-left: 15px;
+    margin-right: 15px;
 }
